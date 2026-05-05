@@ -1,5 +1,5 @@
 Name: **Shri Harinarayan Chauhan****
-Designation: ज**िला अध्यक्ष – आम आदमी पार्टी, देवरिया**
+Designation: **जिला अध्यक्ष – आम आदमी पार्टी, देवरिया*
 <html lang="en">
 <head>
   <meta charset="UTF-8">
