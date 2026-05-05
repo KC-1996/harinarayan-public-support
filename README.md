@@ -82,11 +82,11 @@
     </p>
 
     <div class="phone">
-      📞 Contact Number: 97935454535
+      📞 Contact Number: +919793150845
     </div>
 
     <a class="whatsapp-btn"
-       href="https://wa.me/919793545353"
+       href="https://wa.me/+919793150845"
        target="_blank">
        💬 Contact on WhatsApp
     </a>
