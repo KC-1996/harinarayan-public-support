@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Public Support – Shri Harinarayan Chauhan</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=deoria-width, initial-scale=1.0">
 
   <style>
     body {
@@ -73,7 +73,7 @@
 <body>
   <div class="container">
     <h1>Shri Harinarayan Chauhan</h1>
-    <h2>Devari APP – Public Support</h2>
+    <h2>Deoria APP – Public Support</h2>
 
     <p>
       This platform is dedicated to public support, assistance, and
